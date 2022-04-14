@@ -1,0 +1,51 @@
+/*! Kailee Haskell 4/13/22*/
+h1{
+    font-family: sans-serif;
+    color: black;
+    font-size: Large;
+}
+h2{
+    font-family: cursive;
+    color: black;
+    font-size: small;
+    
+}
+h3{
+    font-family: monospace;
+    font-size: large;
+}
+header{
+    
+}
+div{
+    color: black;
+}
+li{font-size: small}
+a{
+    color: black
+}
+body{background-color: lightgray}
+.common{
+    
+    position: relative;
+    Left: 5px;
+    top: 5px;
+    
+        
+}
+.caption{
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    top: 50px;
+}
+.copyright{
+    Height: 200px;
+    Bottom:100px;
+}
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}

@@ -1,0 +1,26 @@
+/*! Kailee Haskell 4/13/22*/
+h1{
+    font-family: cursive;
+    color: antiquewhite;
+    font-size: Large;
+}
+h2{
+    font-family: cursive;
+    color: black;
+    font-size: small;
+    background-color: antiquewhite;
+}
+h3{
+    font-family: monospace;
+    font-size: large;
+}
+header{
+    background-color: lightgray;
+}
+div{
+    color: black;
+}
+li{font-size: small}
+a{
+    color: cornflowerblue
+}
